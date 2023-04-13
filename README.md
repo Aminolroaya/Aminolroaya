@@ -6,3 +6,8 @@ You might see some of my public repos here😄, but the majority remains confide
 - 🌱 I’m learning generative models in NLP
 - 📫 Reach me via email z.aminolroaya@gmail.com
 
+### Languages
+
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
