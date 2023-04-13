@@ -1,4 +1,4 @@
-### Hi I am Zahra Aminolroaya👋. 
+### Hi! I am Zahra Aminolroaya👋. 
 
 You might see some of my public repos here😄, but the majority remains confidential🤔.
 
