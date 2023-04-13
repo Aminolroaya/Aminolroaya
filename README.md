@@ -1,20 +1,8 @@
-### Hi I am Zahra Aminolroaya👋
+### Hi I am Zahra Aminolroaya👋. 
+
+You might see some of my public repos here😄, but the majority remains confidential🤔.
 
 - 🔭 I’m currently working on projects for augmenting artificial intelligence in real and computer-generated worlds 
-- 📫 Reach me via email: z.aminolroaya@gmail.com
-<!--
-**Aminolroaya/Aminolroaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m learning generative models in NLP
+- 📫 Reach me via email z.aminolroaya@gmail.com
 
-Here are some ideas to get you started:
-
-
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
