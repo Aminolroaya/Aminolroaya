@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on projects for augmenting artificial intelligence in real and computer-generated worlds 
 - 🌱 I’m learning generative models in NLP
-- 🤔 You might see some of my public repos here, but the majority should remain private.
+<!-- - 🤔 You might see some of my public repos here, but the majority should remain private.-->
 - 📫 Reach me via email z.aminolroaya@gmail.com
 
 ### Main languages/scripts
