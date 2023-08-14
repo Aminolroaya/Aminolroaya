@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on projects for augmenting artificial intelligence in real and computer-generated worlds.
-- 🔮✨ I'm like a wizard of words, casting spells in the world of Natural Language Processing (NLP) to make computers understand and speak our language.
+- 🔮✨ Casting spells in the world of Natural Language Processing (NLP) to make computers understand and speak our language.
 <!-- - 🤔 You might see some of my public repos here, but the majority should remain private.-->
 - 📫 Reach me via email z.aminolroaya@gmail.com
 
